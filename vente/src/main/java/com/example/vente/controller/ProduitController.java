@@ -3,7 +3,6 @@ package com.example.vente.controller;
 import com.example.vente.model.Produit;
 import com.example.vente.service.ProduitService;
 import org.springframework.web.bind.annotation.*;
-import lombok.AllArgsConstructor;
 
 import java.util.List;
 
